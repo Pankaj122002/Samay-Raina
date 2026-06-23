@@ -1,0 +1,62 @@
+[
+  {
+    "id": "igl-s2-mumbai",
+    "name": "India's Got Latent — Season 2",
+    "date": "2025-07-15",
+    "time": "19:00",
+    "venue": "Jio World Convention Centre",
+    "city": "Mumbai",
+    "type": "Taping",
+    "description": "Be part of the live audience for India's most unpredictable talent show. Season 2 promises bigger laughs, wilder acts, and the same underqualified judges.",
+    "price": "₹499 – ₹2,999",
+    "status": "Coming Soon"
+  },
+  {
+    "id": "samay-live-delhi",
+    "name": "Samay Raina Live",
+    "date": "2025-08-02",
+    "time": "20:00",
+    "venue": "Thyagaraj Sports Complex",
+    "city": "Delhi",
+    "type": "Stand-up",
+    "description": "An evening of unfiltered comedy, chess trash-talk, and audience roasts. Samay Raina brings his signature chaos to the capital.",
+    "price": "₹799 – ₹3,499",
+    "status": "On Sale"
+  },
+  {
+    "id": "igl-s2-bangalore",
+    "name": "India's Got Latent — Season 2",
+    "date": "2025-08-20",
+    "time": "19:00",
+    "venue": "NICE Convention Centre",
+    "city": "Bangalore",
+    "type": "Taping",
+    "description": "The latent talent of Bangalore takes the stage. Will the judges be impressed? Probably not. But that's the point.",
+    "price": "₹499 – ₹2,499",
+    "status": "Coming Soon"
+  },
+  {
+    "id": "samay-live-hyderabad",
+    "name": "Samay Raina Live",
+    "date": "2025-09-10",
+    "time": "20:00",
+    "venue": "Hitex Exhibition Centre",
+    "city": "Hyderabad",
+    "type": "Stand-up",
+    "description": "Hyderabad, get ready. Samay is back with new material, old grudges, and absolutely no filter.",
+    "price": "₹699 – ₹2,999",
+    "status": "Coming Soon"
+  },
+  {
+    "id": "igl-s2-pune",
+    "name": "India's Got Latent — Season 2",
+    "date": "2025-09-25",
+    "time": "19:00",
+    "venue": "Balewadi Stadium",
+    "city": "Pune",
+    "type": "Taping",
+    "description": "Pune's finest latent talents face the judges. 1 minute 30 seconds. No sob stories. Just chaos.",
+    "price": "₹499 – ₹1,999",
+    "status": "Sold Out"
+  }
+]

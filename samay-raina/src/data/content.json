@@ -1,0 +1,55 @@
+{
+  "brand": {
+    "name": "Samay Raina",
+    "tagline": "Comedian. Chess Enthusiast. Chaos Agent.",
+    "description": "India's most unpredictable comedian. From roasting the nation on YouTube to checkmating grandmasters on Twitch — Samay Raina lives at the intersection of comedy, chess, and pure chaos."
+  },
+  "bio": {
+    "paragraphs": [
+      "Samay Raina is an Indian stand-up comedian, YouTuber, and chess streamer who has redefined what it means to be a multi-hyphenate creator in the digital age.",
+      "Starting his career in stand-up comedy, Samay quickly gained recognition for his sharp wit, observational humor, and ability to connect with audiences across demographics. His comedy specials and live tours have sold out venues across India.",
+      "In 2020, Samay turned to chess streaming on YouTube, combining his love for the game with his comedic sensibilities. The result was a cultural phenomenon that introduced millions of Indians to chess, featuring collaborations with grandmasters like Vidit Gujrathi and Anish Giri.",
+      "With India's Got Latent, Samay has created a talent show format that strips away the melodrama and focuses on raw, unfiltered entertainment. No sob stories. No golden buzzers. Just 90 seconds of whatever you've got."
+    ],
+    "stats": [
+      { "label": "YouTube Subscribers", "value": "2.8M+" },
+      { "label": "Live Shows Done", "value": "500+" },
+      { "label": "Cities Toured", "value": "45+" },
+      { "label": "Chess Streams", "value": "1,200+" }
+    ],
+    "socials": [
+      { "platform": "YouTube", "url": "https://youtube.com/@SamayRaina", "handle": "@SamayRaina" },
+      { "platform": "Instagram", "url": "https://instagram.com/samayraina", "handle": "@samayraina" },
+      { "platform": "Twitter", "url": "https://twitter.com/ReheSamay", "handle": "@ReheSamay" },
+      { "platform": "Twitch", "url": "https://twitch.tv/samayraina", "handle": "@samayraina" }
+    ]
+  },
+  "aboutIGL": {
+    "title": "About India's Got Latent",
+    "body": [
+      "India's Got Latent is a talent show. Sort of. Honestly, hum bhi poori tarah sure nahi hain but that's kind of the point.",
+      "You come on stage, you do your thing, and a judge who will be underqualified to judge things, will judge it. Very seriously. Out of 10. But will it eventually matter? Maybe.",
+      "No sob stories, no golden buzzer, no host crying during auditions. Sirf 1 minute 30 seconds — your stage, your problem. Whether you can sing, dance, or eat 40 bananas in 1min — we want to see it.",
+      "India mein bahut saara talent hai lekin latent sirf kuch he ke pass hai agar aap mai koi latent chhupa hua hai, then this show is specially for you. Bas venue pe 2 ghante pehle aa jaana — warna hum aage badh jaayenge, bina kisi guilt ke."
+    ],
+    "rules": [
+      "Performers are allotted 1 minute and 30 seconds for their performance. Time limits must be strictly adhered to.",
+      "All performances must align with the theme of the event (if applicable).",
+      "Props or equipment used during the performance must be pre-approved by the event coordinator.",
+      "After the performance, judges will provide feedback and discuss highlights of the act.",
+      "Judges may or may not crack jokes on your performance or yourself.",
+      "Judges may also ask questions about the performer's personal journey or challenges.",
+      "Performers must maintain professionalism and respect toward event staff, judges, and fellow participants.",
+      "Performers must refrain from emailing or writing into DMs of event staff, fellow artists & judges.",
+      "Any form of misconduct may result in disqualification."
+    ]
+  },
+  "quotes": [
+    { "text": "Samay Raina is the future of Indian comedy.", "source": "The Indian Express" },
+    { "text": "He made chess cool for an entire generation.", "source": "Rolling Stone India" },
+    { "text": "India's Got Latent is refreshingly unpretentious.", "source": "The Hindu" },
+    { "text": "The most chaotic talent show on the planet.", "source": "BuzzFeed India" },
+    { "text": "Samay's roast battles are legendary.", "source": "MensXP" },
+    { "text": "A comedian who actually understands the internet.", "source": "Vice India" }
+  ]
+}

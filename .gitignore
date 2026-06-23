@@ -1,0 +1,11 @@
+node_modules
+.next
+.gitkeep
+package-lock.json
+tests-results
+playwright-report
+blob-report
+playwright/.cache
+out/
+test-results/
+.last-run.json

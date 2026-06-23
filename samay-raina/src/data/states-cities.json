@@ -1,0 +1,23 @@
+{
+  "Maharashtra": ["Mumbai", "Pune", "Nagpur", "Nashik", "Thane", "Navi Mumbai"],
+  "Delhi": ["New Delhi", "Dwarka", "Rohini", "Karol Bagh", "Saket"],
+  "Karnataka": ["Bangalore", "Mysore", "Hubli", "Mangalore"],
+  "Telangana": ["Hyderabad", "Secunderabad", "Warangal"],
+  "Tamil Nadu": ["Chennai", "Coimbatore", "Madurai"],
+  "Gujarat": ["Ahmedabad", "Surat", "Vadodara", "Rajkot"],
+  "West Bengal": ["Kolkata", "Howrah", "Durgapur"],
+  "Rajasthan": ["Jaipur", "Jodhpur", "Udaipur", "Ajmer"],
+  "Uttar Pradesh": ["Lucknow", "Kanpur", "Agra", "Varanasi", "Noida"],
+  "Punjab": ["Chandigarh", "Ludhiana", "Amritsar", "Jalandhar"],
+  "Haryana": ["Gurgaon", "Faridabad", "Panipat", "Ambala"],
+  "Kerala": ["Kochi", "Thiruvananthapuram", "Kozhikode"],
+  "Madhya Pradesh": ["Bhopal", "Indore", "Gwalior", "Jabalpur"],
+  "Bihar": ["Patna", "Gaya", "Muzaffarpur"],
+  "Odisha": ["Bhubaneswar", "Cuttack", "Rourkela"],
+  "Assam": ["Guwahati", "Dibrugarh", "Silchar"],
+  "Chhattisgarh": ["Raipur", "Bhilai"],
+  "Jharkhand": ["Ranchi", "Jamshedpur"],
+  "Uttarakhand": ["Dehradun", "Haridwar"],
+  "Himachal Pradesh": ["Shimla", "Manali"],
+  "Goa": ["Panaji", "Margao"]
+}
