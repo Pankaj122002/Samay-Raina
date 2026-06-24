@@ -62,6 +62,13 @@ export default function Navigation() {
                   <Link
                     key={link.href}
                     href={link.href}
+                    onClick={(e) => {
+                      if (link.href.startsWith("/#") && pathname === "/") {
+                        e.preventDefault();
+                        const id = link.href.split("#")[1];
+                        document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
+                      }
+                    }}
                     className="relative px-4 py-2 text-lg font-medium transition-colors group"
                   >
                     <span className={`relative z-10 ${isActive ? "text-[#050505]" : "text-[#a1a1a6] group-hover:text-[#f5f5f7]"}`}>
@@ -126,6 +133,14 @@ export default function Navigation() {
                 >
                   <Link
                     href={link.href}
+                    onClick={(e) => {
+                      if (link.href.startsWith("/#") && pathname === "/") {
+                        e.preventDefault();
+                        const id = link.href.split("#")[1];
+                        document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
+                      }
+                      setMobileOpen(false);
+                    }}
                     className="flex items-center justify-between py-4 border-b border-white/10 group"
                   >
                     <span className="text-4xl font-bold text-[#f5f5f7] group-hover:text-[#F5C518] transition-colors"
